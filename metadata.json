@@ -1,0 +1,6 @@
+{
+  "name": "Aprende Español",
+  "description": "Ինտերակտիվ իսպաներեն-հայերեն ուսուցողական ծրագիր՝ թարգմանություններով, երկխոսություններով և վիկտորինաներով:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
